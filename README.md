@@ -1,5 +1,9 @@
 # Mini Product Catalog — Section 4 Homework (State Lifecycle & Navigation)
 
+## ▶️ Live demo (run in the browser)
+**https://amr-elgharip2006.github.io/flutter-mini-product-catalog/**
+
+
 **Student:** Amr Ahmed El-Ghareeb
 
 Login → Products → Product Details, built with **go_router** (the Navigator version is kept commented out).
